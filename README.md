@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogavani A</h1>
-<h3 align="center">A passionate Embedded and</h3>
+<h3 align="center">A passionate Embedded Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogavani123&label=Profile%20views&color=0e75b6&style=flat" alt="yogavani123" /> </p>
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Embedded Systems, C. C++, Linux, ARM**
 
 - 📫 How to reach me **yogavani1819@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oqPz0pikfnX_lMu9-hq_JZEohhyGMj1D/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
